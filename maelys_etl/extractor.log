@@ -1,0 +1,4 @@
+03-Nov-20 06:55:59 - root - INFO - Fetching Table Schema - bq_data_upload.py - bq_data_upload - get_bigquery_table_schema
+03-Nov-20 06:56:02 - root - INFO - Starting job 18650676-2d44-4ebb-9e6a-7fa74f015df1 - bq_data_upload.py - bq_data_upload - upload_data_from_csv
+03-Nov-20 06:56:06 - root - INFO - Job finished. - bq_data_upload.py - bq_data_upload - upload_data_from_csv
+03-Nov-20 06:56:06 - root - INFO - Loaded 1000 rows & 8 to maelys-interview.maelys.orders6. - bq_data_upload.py - bq_data_upload - upload_data_from_csv
